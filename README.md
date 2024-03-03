@@ -1,0 +1,4 @@
+- 👋 Hi, I am Konrad Hoßmann
+- 👀 I am interested in Linux and Software Engineering
+- 🌱 I am currently learning Rust
+- 💞️ I am looking to collaborate on Software Projects
